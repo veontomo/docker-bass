@@ -1,3 +1,0 @@
-2. docker build -t bass .
-3. docker run --name bass -d -e POSTGRES_PASSWORD=bass -p 5432:5432 bass
-4. docker exec -it bass bash
